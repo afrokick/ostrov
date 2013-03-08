@@ -1,17 +1,17 @@
 # Unity3D .gitignore file.
 #     Store this file at the root of your local repository.
 .DS_Store
-Library/AssetImportState
-Library/AssetServerCacheV3
-Library/FailedAssetImports.txt
-Library/ScriptAssemblies
-Library/ScriptMapper
-Library/assetDatabase3
-Library/cache
-Library/expandedItems
-Library/metadata
-Library/previews
-Library/guidmapper
-Temp
-*.pidb
+Ostrov/Library/AssetImportState
+Ostrov/Library/AssetServerCacheV3
+Ostrov/Library/FailedAssetImports.txt
+Ostrov/Library/ScriptAssemblies
+Ostrov/Library/ScriptMapper
+Ostrov/Library/assetDatabase3
+Ostrov/Library/cache
+Ostrov/Library/expandedItems
+Ostrov/Library/metadata
+Ostrov/Library/previews
+Ostrov/Library/guidmapper
+Ostrov/Temp
+Ostrov/*.pidb
 build
