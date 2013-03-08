@@ -4,14 +4,14 @@
 Ostrov/Library/AssetImportState
 Ostrov/Library/AssetServerCacheV3
 Ostrov/Library/FailedAssetImports.txt
-Ostrov/Library/ScriptAssemblies
 Ostrov/Library/ScriptMapper
 Ostrov/Library/assetDatabase3
 Ostrov/Library/cache
 Ostrov/Library/expandedItems
-Ostrov/Library/metadata
 Ostrov/Library/previews
 Ostrov/Library/guidmapper
 Ostrov/Temp
 Ostrov/*.pidb
 build
+/Ostrov/Library/metadata
+/Ostrov/Library/ScriptAssemblies
